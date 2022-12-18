@@ -1,1 +1,1 @@
-# Calculadora-para-convers-o-de-bases-num-ricas.
+# Calculadora para conversão de bases numéricas.
