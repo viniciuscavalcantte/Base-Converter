@@ -1,1 +1,1 @@
-# Calculadora para conversão de bases numéricas.
+# Binary, decimal, octal, and hexadecimal base converter.
